@@ -1,0 +1,12 @@
+building infrasture by using ansible
+cloud watcj
+continous integration - jenkins
+git - 
+version control
+branch 
+ansible - infrasture 
+
+this is from my orgranisation
+
+basic 
+git and scm - difference
